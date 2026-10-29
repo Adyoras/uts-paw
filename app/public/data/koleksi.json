@@ -1,10 +1,90 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Pempek",
+    "kategori": "Kudapan",
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasuk": 60,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "2",
+    "judul": "Rendang",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sumatera Selatan",
+    "waktuMasuk": 240-320,
+    "tingkatKesulitan": "Sulit"
+  }
+  {
+    "id": "3",
+    "judul": "Tekwan",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sumatera Selatan",
+    "waktuMasuk": 60,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "4",
+    "judul": "Gulai Ikan Patin",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Jambi",
+    "waktuMasuk": 60,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "4",
+    "judul": "Gulai Ikan Patin",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Jambi",
+    "waktuMasuk": 60,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "5",
+    "judul": "Seruit",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Lampung",
+    "waktuMasuk": 45,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "6",
+    "judul": "Tempoyak Ikan Patin",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Jambi",
+    "waktuMasuk": 45-60,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "7",
+    "judul": "Mie Aceh",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Aceh",
+    "waktuMasuk": 45,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "8",
+    "judul": "Soto Medan",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sumatera Utara",
+    "waktuMasuk": 90,
+    "tingkatKesulitan": "Sedang"
+  }
+  {
+    "id": "9",
+    "judul": "Bika Ambon",
+    "kategori": "Kudapan",
+    "daerahAsal": "Sumatera Utara",
+    "waktuMasuk": 90,
+    "tingkatKesulitan": "Sulit"
+  }
+  {
+    "id": "10",
+    "judul": "Nasi Kapau",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasuk": 90,
+    "tingkatKesulitan": "Sulit"
   }
 ]
