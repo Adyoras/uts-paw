@@ -1,12 +1,3 @@
-import mahasiswa from '../../mahasiswa.json'
-export default function Beranda() {
-    return (
-        <section>
-            <h1>Daftar Tugas</h1>
-            <p>Tama: {mahasiswa.tema}</p>
-        </section>
-    )
-}
 import { Link } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import mahasiswa from '../../mahasiswa.json'
@@ -17,16 +8,16 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Daftar Tugas</h1>
+      <h1>Daftar Resep</h1>
       <p>Tema: {mahasiswa.tema}</p>
       {loading ? (
         <p>Memuat ringkasan...</p>
       ) : (
         <p>
-          Ada {items.length} tugas dalam {jumlahKategori} kategori.
+          Ada {items.length} resep dalam {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua tugas</Link>
+      <Link to="/koleksi">Lihat semua resep</Link>
     </section>
   )
 }
