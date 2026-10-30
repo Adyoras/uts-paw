@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Tambah.css'
 
-const AWAL = { judul: '', kategori: 'Kuliah', daerahAsal: '', waktuMasak: 'sedang', tingkatKesulitan: ''}
+const AWAL = { judul: '', kategori: '', daerahAsal: '', waktuMasak: '', tingkatKesulitan: ''}
 
 export default function Tambah() {
   const { tambah } = useKoleksi()
@@ -25,7 +25,7 @@ export default function Tambah() {
 
   return (
     <form className="formulir" onSubmit={simpan} noValidate>
-      <h1>Tambah Tugas</h1>
+      <h1>Tambah Resep</h1>
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
@@ -33,15 +33,15 @@ export default function Tambah() {
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
-        <option>Kuliah</option>
-        <option>Organisasi</option>
+        <option>Makanan Utama</option>
+        <option>Kudapan</option>
       </select>
 
       <label htmlFor="daerahAsal">Daerah Asal</label>
       <input id="daerahAsal" name="daerahAsal" value={form.daerahAsal} onChange={ubah} />
 
       <label htmlFor="waktuMasak">Waktu Masak</label>
-      <input id="waktuMasak" name="waktuMasak" type="date" value={form.waktuMasak} onChange={ubah} />
+      <input id="waktuMasak" name="waktuMasak" value={form.waktuMasak} onChange={ubah} />
 
       <label htmlFor="tingkatKesulitan">Tingkat Kesulitan</label>
       <select id="tingkatKesulitan" name="tingkatKesulitan" value={form.tingkatKesulitan} onChange={ubah}>

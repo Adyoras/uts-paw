@@ -33,9 +33,9 @@
   },
   {
     "id": "5",
-    "judul": "Gulai Ikan Patin",
+    "judul": "Ayam Pop",
     "kategori": "Makanan Utama",
-    "daerahAsal": "Jambi",
+    "daerahAsal": "Sumatera Barat",
     "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
@@ -76,14 +76,6 @@
     "judul": "Bika Ambon",
     "kategori": "Kudapan",
     "daerahAsal": "Sumatera Utara",
-    "waktuMasak": "90",
-    "tingkatKesulitan": "Sulit"
-  },
-  {
-    "id": "10",
-    "judul": "Nasi Kapau",
-    "kategori": "Makanan Utama",
-    "daerahAsal": "Sumatera Barat",
     "waktuMasak": "90",
     "tingkatKesulitan": "Sulit"
   }
