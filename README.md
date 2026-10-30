@@ -25,4 +25,10 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
+- Component, membagi tampilan aplikasi menjadi beberapa komponen seperti Layout, KartuItem, Koleksi, dan KotakPencarian.
+- Props, mengirim data resep dari komponen induk ke anak
+- State, menyimpan dan mengelola data resep dan pencarian
+- Effect, menjalankan proses pengambilan data json
+- React Router, Mengatur navigasi halaman seperti koleksi dan detail resep
+- Conditional Rendering, menampilkan tampilan berbeda berdasarkan kondisi seperti loading, error, dan data kosong
+- Event Handling, menangani interaksi user seperti mencari resep dan penambahan/penghapusan koleksi
