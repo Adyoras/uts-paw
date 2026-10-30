@@ -4,7 +4,7 @@
     "judul": "Pempek",
     "kategori": "Kudapan",
     "daerahAsal": "Sumatera Barat",
-    "waktuMasak": 60,
+    "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -12,7 +12,7 @@
     "judul": "Rendang",
     "kategori": "Makanan Utama",
     "daerahAsal": "Sumatera Selatan",
-    "waktuMasak": 320,
+    "waktuMasak": "320",
     "tingkatKesulitan": "Sulit"
   },
   {
@@ -20,7 +20,7 @@
     "judul": "Tekwan",
     "kategori": "Makanan Utama",
     "daerahAsal": "Sumatera Selatan",
-    "waktuMasak": 60,
+    "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -28,7 +28,7 @@
     "judul": "Gulai Ikan Patin",
     "kategori": "Makanan Utama",
     "daerahAsal": "Jambi",
-    "waktuMasak": 60,
+    "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -36,7 +36,7 @@
     "judul": "Gulai Ikan Patin",
     "kategori": "Makanan Utama",
     "daerahAsal": "Jambi",
-    "waktuMasak": 60,
+    "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -44,7 +44,7 @@
     "judul": "Seruit",
     "kategori": "Makanan Utama",
     "daerahAsal": "Lampung",
-    "waktuMasak": 45,
+    "waktuMasak": "45",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -52,7 +52,7 @@
     "judul": "Tempoyak Ikan Patin",
     "kategori": "Makanan Utama",
     "daerahAsal": "Jambi",
-    "waktuMasak": 60,
+    "waktuMasak": "60",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -60,7 +60,7 @@
     "judul": "Mie Aceh",
     "kategori": "Makanan Utama",
     "daerahAsal": "Aceh",
-    "waktuMasak": 45,
+    "waktuMasak": "45",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -68,7 +68,7 @@
     "judul": "Soto Medan",
     "kategori": "Makanan Utama",
     "daerahAsal": "Sumatera Utara",
-    "waktuMasak": 90,
+    "waktuMasak": "90",
     "tingkatKesulitan": "Sedang"
   },
   {
@@ -76,7 +76,7 @@
     "judul": "Bika Ambon",
     "kategori": "Kudapan",
     "daerahAsal": "Sumatera Utara",
-    "waktuMasak": 90,
+    "waktuMasak": "90",
     "tingkatKesulitan": "Sulit"
   },
   {
@@ -84,7 +84,7 @@
     "judul": "Nasi Kapau",
     "kategori": "Makanan Utama",
     "daerahAsal": "Sumatera Barat",
-    "waktuMasak": 90,
+    "waktuMasak": "90",
     "tingkatKesulitan": "Sulit"
   }
 ]
